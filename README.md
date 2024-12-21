@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# PasswordStrengthAnalyzer
-Password score analyze ,  help you analyze your password before input it into a website so there don't get to easily guess your password for other account from ur prevoius trys 
-=======
 # Password Strength Analyzer
 
 A simple tool to evaluate the strength of passwords and provide feedback on how to improve them. This project is perfect for learning about password validation, Python basics, and file handling.
@@ -26,4 +22,3 @@ A simple tool to evaluate the strength of passwords and provide feedback on how 
    ```bash
    git clone https://github.com/alooma471/PasswordStrengthAnalyzer.git
 
->>>>>>> 8f823cc (Add README file)
